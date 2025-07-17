@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator Plus</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #121212;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    header {
+      background: #1f1f1f;
+      padding: 1em;
+      text-align: center;
+      font-size: 1.4em;
+      font-weight: bold;
+    }
+
+    .calculator {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 1em;
+    }
+
+    .display {
+      background: #2a2a2a;
+      padding: 1em;
+      font-size: 2em;
+      border-radius: 10px;
+      min-height: 60px;
+      margin-bottom: 10px;
+      text-align: right;
+      word-wrap: break-word;
+    }
+
+    .history {
+      font-size: 0.9em;
+      color: #aaa;
+      max-height: 80px;
+      overflow-y: auto;
+      margin-bottom: 10px;
+    }
+
+    .buttons {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    button {
+      padding: 20px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 10px;
+      background: #333;
+      color: #fff;
+      transition: 0.2s;
+    }
+
+    button:hover {
+      background: #444;
+    }
+
+    .equal { background: #0a84ff; color: white; }
+    .operator { background: #585858; }
+    .memory { background: #4d4d4d; }
+    .dark-toggle {
+      margin: 10px auto;
+      text-align: center;
+      font-size: 0.9em;
+    }
+
+    .tip-toggle {
+      text-align: center;
+      margin: 10px 0;
+    }
+
+    .tip-toggle input {
+      padding: 5px;
+      width: 60px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>Calculator Plus</header>
+
+  <div class="calculator">
+    <div class="history" id="history"></div>
+    <div class="display" id="display">0</div>
+
+    <div class="buttons">
+      <button class="memory" onclick="memoryClear()">MC</button>
+      <button class="memory" onclick="memoryRecall()">MR</button>
+      <button class="memory" onclick="memoryAdd()">M+</button>
+      <button class="memory" onclick="memorySubtract()">M-</button>
+
+      <button onclick="clearDisplay()">C</button>
+      <button onclick="append('%')">%</button>
+      <button onclick="backspace()">⌫</button>
+      <button class="operator" onclick="append('/')">÷</button>
+
+      <button onclick="append('7')">7</button>
+      <button onclick="append('8')">8</button>
+      <button onclick="append('9')">9</button>
+      <button class="operator" onclick="append('*')">×</button>
+
+      <button onclick="append('4')">4</button>
+      <button onclick="append('5')">5</button>
+      <button onclick="append('6')">6</button>
+      <button class="operator" onclick="append('-')">−</button>
+
+      <button onclick="append('1')">1</button>
+      <button onclick="append('2')">2</button>
+      <button onclick="append('3')">3</button>
+      <button class="operator" onclick="append('+')">+</button>
+
+      <button onclick="append('0')">0</button>
+      <button onclick="append('.')">.</button>
+      <button onclick="calculate()">=</button>
+      <button onclick="calculateTip()">Tip</button>
+    </div>
+
+    <div class="tip-toggle">
+      Tip %: <input type="number" id="tipPercent" value="15">%
+    </div>
+  </div>
+
+  <script>
+    let display = document.getElementById('display');
+    let history = document.getElementById('history');
+    let memory = 0;
+    let current = "";
+
+    function append(value) {
+      if (display.innerText === "0") display.innerText = "";
+      display.innerText += value;
+    }
+
+    function clearDisplay() {
+      display.innerText = "0";
+    }
+
+    function backspace() {
+      display.innerText = display.innerText.slice(0, -1) || "0";
+    }
+
+    function calculate() {
+      try {
+        let result = eval(display.innerText.replace('%', '/100'));
+        history.innerHTML += `${display.innerText} = ${result}<br>`;
+        display.innerText = result;
+      } catch {
+        display.innerText = "Error";
+      }
+    }
+
+    function memoryAdd() {
+      memory += parseFloat(display.innerText) || 0;
+    }
+
+    function memorySubtract() {
+      memory -= parseFloat(display.innerText) || 0;
+    }
+
+    function memoryRecall() {
+      display.innerText = memory;
+    }
+
+    function memoryClear() {
+      memory = 0;
+    }
+
+    function calculateTip() {
+      let percent = parseFloat(document.getElementById('tipPercent').value);
+      let base = parseFloat(display.innerText);
+      if (!isNaN(base) && !isNaN(percent)) {
+        let tip = base * (percent / 100);
+        let total = base + tip;
+        history.innerHTML += `Base: ${base}, Tip: ${tip}, Total: ${total}<br>`;
+        display.innerText = total.toFixed(2);
+      }
+    }
+  </script>
+</body>
+</html>
