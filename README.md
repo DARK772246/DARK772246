@@ -1,10 +1,10 @@
 
-# DARK77246
+# DARK772246
 
-*   **`_`** A passionate Ethical Hacker and Cybersecurity enthusiast from Planet Earth.
-*   **`_`** Currently learning advanced penetration testing techniques and exploring the world of secure software development.
-*   **`_`** Looking to collaborate on open-source cybersecurity projects.
-*   **`_`** Let's connect and build something amazing together!
+-   **`_`** A passionate Ethical Hacker and Cybersecurity enthusiast from Planet Earth.
+-   **`_`** Currently learning advanced penetration testing techniques and exploring the world of secure software development.
+-   **`_`** Looking to collaborate on open-source cybersecurity projects.
+-   **`_`** Let's connect and build something amazing together!
 
 ---
 
@@ -23,8 +23,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARK77246&show_icons=true&theme=radical" alt="dark77246's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK77246&layout=compact&theme=radical" alt="dark77246's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DARK772246&show_icons=true&theme=radical" alt="dark772246's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK772246&layout=compact&theme=radical" alt="dark772246's top languages" />
 </p>
 
 ---
