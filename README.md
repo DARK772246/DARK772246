@@ -1,6 +1,6 @@
 <!-- Header with Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DAK772246&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=DARK772246&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile visitors" />
 </p>
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
 <h3 align="center">A passionate Ethical Hacker and Cybersecurity enthusiast from Planet Earth.</h3>
@@ -29,17 +29,17 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DAK772246&show_icons=true&theme=dracula&icon_color=79ff97&hide_border=true&cache_seconds=86400" alt="Salman's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DARK772246&show_icons=true&theme=dracula&icon_color=79ff97&hide_border=true&cache_seconds=86400" alt="Salman's GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAK772246&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK772246&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/DAK772246/DAK772246/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
+  <img src="https://github.com/DARK772246/DARK772246/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
 </p>
 
 ---
