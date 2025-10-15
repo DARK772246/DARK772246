@@ -27,8 +27,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DAK772246&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="Salman's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAK772246&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DAK772246&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&cache_seconds=86400" alt="Salman's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAK772246&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <!-- GitHub Contribution Snake -->
