@@ -15,7 +15,6 @@
 ---
 
 ### 🛡️ My Skills
-<!-- New Skill Icons Style -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,linux,bash,js,docker,git&perline=6" />
@@ -24,18 +23,11 @@
 
 ---
 
-### 📊 My GitHub Stats
-<!-- New Theme (Dracula) and Column Layout -->
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DARK772246&show_icons=true&theme=dracula&icon_color=79ff97&hide_border=true&cache_seconds=86400" alt="Salman's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARK772246&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🚀 My GitHub Metrics
+<!-- NAYA METRICS WALA SECTION -->
+<p align="center">
+  <img src="https://github.com/DARK772246/DARK772246/blob/master/github-metrics.svg" alt="Metrics" />
+</p>
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
