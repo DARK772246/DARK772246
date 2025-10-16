@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 My GitHub Metrics
-<!-- NAYA METRICS WALA SECTION -->
+<!-- YEH AAPKA NAYA, ADVANCED METRICS SECTION HAI -->
 <p align="center">
   <img src="https://github.com/DARK772246/DARK772246/blob/master/github-metrics.svg" alt="Metrics" />
 </p>
