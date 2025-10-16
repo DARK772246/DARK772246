@@ -31,10 +31,10 @@
       
       <h3>🔗 Connect with me</h3>
       <p align="left">
-        <a href="https://www.tiktok.com/@hba013" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40hba013-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-        <a href="https://www.instagram.com/salman_orakxi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40salman_orakxi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <a href="https://wa.me/923275176283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-        <a href="https://www.capcut.com/profile/PcMJTW0O7lYBMSNm6lVMfgnxIC89wumA2ig5THnmg24" target="_blank"><img src="https://img.shields.io/badge/CapCut-My_Profile-00B5B5?style=for-the-badge&logo=capcut&logoColor=white" /></a>
+        <a href="https://www.tiktok.com/@hba013" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40hba013-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="hba013" /></a>
+        <a href="https://www.instagram.com/salman_orakxi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40salman_orakxi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="salman_orakxi" /></a>
+        <a href="https://wa.me/923275176283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="salman whatsapp" /></a>
+        <a href="https://www.capcut.com/profile/PcMJTW0O7lYBMSNm6lVMfgnxIC89wumA2ig5THnmg24" target="_blank"><img src="https://img.shields.io/badge/CapCut-My_Profile-00B5B5?style=for-the-badge&logo=capcut&logoColor=white" alt="salman capcut" /></a>
       </p>
     </td>
     
