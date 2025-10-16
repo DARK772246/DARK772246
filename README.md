@@ -1,61 +1,46 @@
-<!-- Header -->
+<!-- Header with Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DARK772246&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile visitors" />
+</p>
 <h1 align="center">Hi 👋, I'm Salman Khan</h1>
 <h3 align="center">A passionate Ethical Hacker and Cybersecurity enthusiast from Planet Earth.</h3>
 
+<!-- Typing SVG Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=550&lines=Ethical+Hacker+ fascinated+by+Cybersecurity;Learning+advanced+penetration+testing+techniques;Exploring+secure+software+development;Always+ready+to+collaborate+on+open-source+projects;Let's+connect+and+build+something+amazing!" alt="Typing SVG">
+  </a>
+</p>
+
 ---
 
-<!-- Main Content in a Table -->
-<table align="center">
-  <tr>
-    <!-- Left Column: Bio and Skills -->
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🔭 I’m currently working on enhancing my penetration testing skills.</li>
-        <li>🌱 I’m currently learning advanced secure software development.</li>
-        <li>👯 I’m looking to collaborate on open-source cybersecurity projects.</li>
-        <li>💬 Ask me about Linux, Python, and Network Security.</li>
-        <li>📫 How to reach me: <strong>salman.orakxi.official@gmail.com</strong></li>
-      </ul>
-      
-      <hr>
-      
-      <h3>🛡️ My Skills</h3>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,linux,bash,js,docker,git,postman,powershell&perline=4" />
-        </a>
-      </p>
-      
-      <hr>
-      
-      <h3>🔗 Connect with me</h3>
-      <p align="left">
-        <a href="https://www.tiktok.com/@hba013" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40hba013-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="hba013" /></a>
-        <a href="https://www.instagram.com/salman_orakxi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40salman_orakxi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="salman_orakxi" /></a>
-        <a href="https://wa.me/923275176283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="salman whatsapp" /></a>
-        <a href="https://www.capcut.com/profile/PcMJTW0O7lYBMSNm6lVMfgnxIC89wumA2ig5THnmg24" target="_blank"><img src="https://img.shields.io/badge/CapCut-My_Profile-00B5B5?style=for-the-badge&logo=capcut&logoColor=white" alt="salman capcut" /></a>
-      </p>
-    </td>
-    
-    <!-- Right Column: WakaTime and GitHub Stats -->
-    <td width="50%" valign="top">
-      <!-- WakaTime Card -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DARK772246&theme=dracula&hide_border=true&layout=compact" />
-      </a>
-      
-      <br><br> <!-- Thori si space -->
-      
-      <!-- GitHub Stats Card -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DARK772246&show_icons=true&theme=dracula&icon_color=79ff97&hide_border=true&cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🛡️ My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,bash,js,docker,git&perline=6" />
+  </a>
+</p>
 
-<!-- Snake Animation (Centered) -->
+---
+
+### 🚀 My GitHub Metrics
+<!-- Yeh lowlighter/metrics wala section hai -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DARK772246/DARK772246/master/github-metrics.svg" alt="Metrics" />
+</p>
+
+<!-- GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DARK772246/DARK772246/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.tiktok.com/@hba013" target="_blank"><img src="https://img.shields.io/badge/TikTok-%40hba013-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="hba013" /></a>
+  <a href="https://www.instagram.com/salman_orakxi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40salman_orakxi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="salman_orakxi" /></a>
+  <a href="https://wa.me/923275176283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="salman whatsapp" /></a>
+  <a href="https://www.capcut.com/profile/PcMJTW0O7lYBMSNm6lVMfgnxIC89wumA2ig5THnmg24" target="_blank"><img src="https://img.shields.io/badge/CapCut-My_Profile-00B5B5?style=for-the-badge&logo=capcut&logoColor=white" alt="salman capcut" /></a>
 </p>
