@@ -15,15 +15,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Karachi
           
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          # Failing plugins ko waqti tor par band kar diya gaya hai
+          # plugin_activity: yes
+          # plugin_activity_limit: 5
           
           plugin_languages: yes
           plugin_languages_limit: 8
           
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
+          # plugin_habits: yes
+          # plugin_habits_from: 200
+          # plugin_habits_charts: yes
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
