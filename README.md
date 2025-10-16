@@ -26,12 +26,14 @@
 ### 🚀 My GitHub Metrics
 <!-- YEH AAPKA NAYA, ADVANCED METRICS SECTION HAI -->
 <p align="center">
-  <img src="https://github.com/DARK772246/DARK772246/blob/master/github-metrics.svg" alt="Metrics" />
+  <!-- Image link theek kar diya gaya hai -->
+  <img src="https://raw.githubusercontent.com/DARK772246/DARK772246/master/github-metrics.svg" alt="Metrics" />
 </p>
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/DARK772246/DARK772246/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake">
+  <!-- Snake ka link bhi theek kar diya gaya hai -->
+  <img src="https://raw.githubusercontent.com/DARK772246/DARK772246/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
 ---
